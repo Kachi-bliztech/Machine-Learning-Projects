@@ -13,13 +13,13 @@ Once trained, the model can classify new, unseen patient data by determining on 
 
 <h2>Skills </h2>
 
-- <b>pandas</b> 
-- <b>numpy</b>
-- <b>scikit-learn</b>
-- <b>support vector machin alogrithm</b>
+- </b>pandas</b> 
+- </b>numpy</b>
+- </b>scikit-learn</b>
+- </b>support vector machin alogrithm</b>
 
 <h2>Outcomes </h2>
 
-- <b>successful predictions. 77% accuracy</b> 
+- </b>successful predictions. 77% accuracy</b> 
 
 
