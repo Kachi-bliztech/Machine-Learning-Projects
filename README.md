@@ -20,6 +20,6 @@ Once trained, the model can classify new, unseen patient data by determining on 
 
 <h2>Outcomes </h2>
 
-- <b>successful predictions. 93% success rate</b> 
+- <b>successful predictions. 77% accuracy</b> 
 
 
